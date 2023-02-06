@@ -1,0 +1,59 @@
+using System;
+using System.Windows.Documents;
+
+namespace CConsole
+{
+    class program
+    {
+        static void Main()
+        {
+            byte age = 37;
+            Console.WriteLine(age);
+            Console.ReadKey();
+        }
+        static void Main1()
+        {
+            long account = 121212;
+            Console.WriteLine(account);
+            Console.ReadKey();
+        }
+        static void Main2()
+        {
+            string a = "B";
+            Console.WriteLine(a);
+            Console.ReadKey();
+        }
+        static void Main3()
+        {
+            string a = "Hello World";
+            Console.WriteLine(a);
+            Console.ReadKey();
+        }
+        static void Main4()
+        {
+            string a = "Hello World";
+            Console.WriteLine(a);
+            Console.ReadKey();
+        }
+        static void Main5()
+        {
+            double HumanTemp = 37.6;
+            Console.WriteLine(HumanTemp);
+            Console.ReadKey();
+        }
+        static void Main6()
+        {
+            long WordPiple = 7000000000;
+            Console.WriteLine(WordPiple);
+            Console.ReadKey();
+        }
+        static void Main7()
+        {
+            float temp = 20;
+            Console.WriteLine(temp);
+            Console.ReadKey();
+        }
+
+
+    }
+};
